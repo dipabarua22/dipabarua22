@@ -1,4 +1,4 @@
-![logo](https://github.com/dipabarua22/dipabarua22/blob/e46d149d211a8f8f0a3ba315743d9b29cc5e8fd4/cover%20page-01.jpg)
+<!--![logo](https://github.com/dipabarua22/dipabarua22/blob/e46d149d211a8f8f0a3ba315743d9b29cc5e8fd4/cover%20page-01.jpg)-->
 <h1 align="center">Hi 👋, I'm Dipa Barua</h1>
 <h3 align="center">A passionate web developer from Bangladesh</h3>
 <img align="right" alt="Coding" width="400" src="https://i.pinimg.com/originals/e7/26/c7/e726c74ac081eed50feee1433d12c998.gif">
